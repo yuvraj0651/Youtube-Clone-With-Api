@@ -1,4 +1,4 @@
-# 🎥 YouTube Clone with API 🚀
+# 🎥 YouTube Clone with API 
 
 ## 📌 Overview
 A modern YouTube Clone application that replicates core functionalities of a video streaming platform. It allows users to browse, search, and watch videos using real-time data fetched from YouTube APIs, delivering a seamless and dynamic user experience.
