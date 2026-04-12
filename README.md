@@ -1,4 +1,5 @@
 # 🎥 YouTube Clone with API 
+![Youtube-clone](https://github.com/user-attachments/assets/4fdbeecb-9113-495f-8213-7ac4cebe8497)
 
 ## 📌 Overview
 A modern YouTube Clone application that replicates core functionalities of a video streaming platform. It allows users to browse, search, and watch videos using real-time data fetched from YouTube APIs, delivering a seamless and dynamic user experience.
@@ -47,6 +48,11 @@ A modern YouTube Clone application that replicates core functionalities of a vid
 - 🔔 Subscription & notification system
 - 📺 Watch history & recommendations
 - 🔐 User authentication
+
+---
+
+## Live Demo -
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify)](https://youtube-clonify-app.netlify.app/)
 
 ---
 
